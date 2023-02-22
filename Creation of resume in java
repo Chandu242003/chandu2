@@ -43,3 +43,4 @@ Teacher obj1=new Teacher();
 obj1.biodata(); 
 Student obj2=new Student(); 
 obj2.biodata(); 
+}
