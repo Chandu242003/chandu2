@@ -9,7 +9,7 @@ float experience;
 public void biodata() 
 { 
 name="Rahul"; 
-qualification="M.Tech"; 
+qualification="B.Tech"; 
 achievements="Q1 publication"; 
 experience=14.8f; 
 System.out.println("Teacher Resume"); 
