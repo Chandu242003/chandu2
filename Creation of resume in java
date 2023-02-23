@@ -8,7 +8,7 @@ String name,qualification,achievements;
 float experience; 
 public void biodata() 
 { 
-name="Imran Ulla Khan"; 
+name="Rahul"; 
 qualification="M.Tech"; 
 achievements="Q1 publication"; 
 experience=14.8f; 
@@ -44,5 +44,4 @@ obj1.biodata();
 Student obj2=new Student(); 
 obj2.biodata(); 
 }
-
 }
