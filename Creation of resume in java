@@ -25,7 +25,7 @@ String name,discipline;
 float result; 
 public void biodata() 
 { 
-name="Rahul Sharma"; 
+name="Ankul Sharma"; 
 result=9.8f; 
 discipline="Computer Science and Engineering"; 
 System.out.println(""); 
